@@ -10,4 +10,4 @@ This roadmap is personnal and is a list of what need to be brought in the librar
 * [x] add quote&#x20;
 * [ ] tuto on grin wallet&#x20;
 * [ ] contact ipollo
-*
+* [ ] remake the 3 tutos in english vs with chapter on the reader&#x20;
