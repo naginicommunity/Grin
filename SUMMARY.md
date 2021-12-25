@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Whitepaper](whitepaper.md)
+* [Q\&A for new GRIN fan](q-and-a-for-new-grin-fan.md)
 * [Q\&A](q-and-a.md)
 
 ## useful link
@@ -25,3 +27,4 @@
 ## Community project
 
 * [Gitbook](community-project/gitbook.md)
+* [Grinflation](community-project/grinflation.md)

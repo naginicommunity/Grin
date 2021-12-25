@@ -1,5 +1,9 @@
 # Chat
 
+## Forum
+
+{% embed url="https://forum.grin.mw" %}
+
 ## telegram
 
 {% embed url="https://t.me/grinprivacy" %}
