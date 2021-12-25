@@ -23,6 +23,7 @@
 * [Trade ogre](exchanges/trade-ogre.md)
 * [Gate.io](exchanges/gate.io.md)
 * [Bitforrex](exchanges/bitforrex.md)
+* [Page 1](exchanges/page-1.md)
 
 ## Community project
 
