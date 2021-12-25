@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Welcome!](README.md)
-  * [Whitepaper](welcome/whitepaper.md)
-  * [GRIN Glossary](welcome/grin-glossary.md)
-  * [Q\&A for new GRIN fan](welcome/q-and-a-for-new-grin-fan.md)
-  * [Q\&A](welcome/q-and-a.md)
+  * [Whitepaper](whitepaper.md)
+  * [GRIN Glossary](grin-glossary.md)
+  * [Q\&A for new GRIN fan](q-and-a-for-new-grin-fan.md)
+  * [Q\&A](q-and-a.md)
+  * [Quotes](welcome/quotes.md)
 
 ## useful link
 
