@@ -35,5 +35,6 @@
 
 ## Community project
 
+* [Mygrin.org](community-project/mygrin.org.md)
 * [Gitbook](community-project/gitbook.md)
 * [Grinflation](community-project/grinflation.md)
