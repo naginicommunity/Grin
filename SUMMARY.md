@@ -4,6 +4,7 @@
 * [Whitepaper](whitepaper.md)
 * [Q\&A for new GRIN fan](q-and-a-for-new-grin-fan.md)
 * [Q\&A](q-and-a.md)
+* [GRIN Glossary](grin-glossary.md)
 
 ## useful link
 
