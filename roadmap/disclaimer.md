@@ -1,3 +1,10 @@
 # 🗣 Disclaimer
 
 This part is not an official roapmap from GRIN. This is an Community project driven by me and use it with caution.
+
+This roadmap is personnal and is a list of what need to be brought in the library. Of course feel free to contribute, 1 GRIN for each contribution for everybody 🎉.
+
+* [x] GITBOOK for GRIN (24/12/2021)
+* [x] Intro of wgrin and NFT project
+* [ ] post it to the forum
+* [ ] add quote&#x20;

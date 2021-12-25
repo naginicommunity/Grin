@@ -26,13 +26,13 @@
 * [Bitforrex](exchanges/bitforrex.md)
 * [Bisq network](exchanges/bisq-network.md)
 
-## Community project
-
-* [Gitbook](community-project/gitbook.md)
-* [Grinflation](community-project/grinflation.md)
-
 ## Roadmap
 
 * [🗣 Disclaimer](roadmap/disclaimer.md)
 * [🫔 WGRIN](roadmap/wgrin.md)
 * [🎨 NFT collection](roadmap/nft-collection.md)
+
+## Community project
+
+* [Gitbook](community-project/gitbook.md)
+* [Grinflation](community-project/grinflation.md)
