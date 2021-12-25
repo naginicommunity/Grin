@@ -8,3 +8,6 @@ This roadmap is personnal and is a list of what need to be brought in the librar
 * [x] Intro of wgrin and NFT project
 * [ ] post it to the forum
 * [ ] add quote&#x20;
+* [ ] tuto on grin wallet&#x20;
+* [ ] contact ipollo
+*
