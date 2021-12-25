@@ -29,3 +29,9 @@
 
 * [Gitbook](community-project/gitbook.md)
 * [Grinflation](community-project/grinflation.md)
+
+## Roadmap
+
+* [🗣 Disclaimer](roadmap/disclaimer.md)
+* [🫔 WGRIN](roadmap/wgrin.md)
+* [🎨 NFT collection](roadmap/nft-collection.md)
